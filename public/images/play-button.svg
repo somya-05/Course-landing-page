@@ -1,0 +1,17 @@
+<svg width="57" height="48" viewBox="0 0 57 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="twemoji:play-button">
+<g clip-path="url(#clip0_29_11)">
+<path id="Vector" d="M57 42.6667C57 44.0812 56.3327 45.4377 55.145 46.4379C53.9573 47.4381 52.3464 48 50.6667 48H6.33333C4.65363 48 3.04272 47.4381 1.85499 46.4379C0.66726 45.4377 0 44.0812 0 42.6667V5.33333C0 3.91885 0.66726 2.56229 1.85499 1.5621C3.04272 0.561903 4.65363 0 6.33333 0L50.6667 0C52.3464 0 53.9573 0.561903 55.145 1.5621C56.3327 2.56229 57 3.91885 57 5.33333V42.6667Z" fill="url(#paint0_linear_29_11)"/>
+<path id="Vector_2" d="M19 11L47 23.5L19 36V11Z" fill="white"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_29_11" x1="28.5" y1="0" x2="28.5" y2="48" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A3BBD7"/>
+<stop offset="1" stop-color="#092636"/>
+</linearGradient>
+<clipPath id="clip0_29_11">
+<rect width="57" height="48" rx="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>

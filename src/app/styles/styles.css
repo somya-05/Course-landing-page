@@ -1,0 +1,126 @@
+body {
+    background-color: #092636;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-item:not(:first-child), .nav-item:not(:last-child) {
+    padding: 2% 6%;
+    border-bottom: 4px transparent solid;
+}
+
+.nav-item:hover {
+    border-bottom: 4px #A3BBD7 solid;
+}
+
+.nav-head {
+    color: white;
+}
+
+.expert-text {
+    font-size: 10em;
+    position: absolute;
+    color: #092636;
+    -webkit-text-stroke: 1px white;
+    font-family: 'AbeeZee', sans-serif;
+    font-style: normal;
+    line-height: normal;
+    opacity: 0.4;
+    flex-wrap: wrap;
+}
+
+.expert-left {
+    margin-left: -38%;
+}
+
+.expert-right {
+    margin-right: -89%;
+    overflow-x: hidden;
+}
+
+.main-info {
+    position: absolute;
+    margin-top: 11em;
+    margin-left: 8em;
+}
+
+.badge {
+    color: black;
+    background-color: #A3BBD7;
+    border-radius: 0;
+    clip-path: polygon(100% 0, 91% 50%, 100% 100%, 0 100%, 0 0);
+}
+
+.info {
+    font-size: 3em;
+    color: white;
+}
+
+.play-btn {
+    background-color: #092636;
+    border-radius: 60px;
+    border: 1px solid rgba(255, 255, 255, 0.60);
+    box-shadow: 0px 6px 4px 0px rgba(0, 0, 0, 0.25);
+    width: 35%;
+}
+
+.card{
+    border-radius: 76px;
+    border: 1px solid #A3BBD7;
+    box-shadow: 0px 6px 4px 0px rgba(0, 0, 0, 0.25);
+    height: 80%;
+    align-items: center;
+    justify-content: center;
+    padding: 3%;
+    width: 270px;
+}
+
+.card-1 {
+    background: linear-gradient(181deg, rgba(215, 163, 207, 0.51) 1.74%, rgba(117, 69, 108, 0.51) 61.19%, rgba(54, 9, 44, 0.51) 99.28%);
+
+}
+
+.card-2 {
+    background: linear-gradient(180deg, rgba(164, 215, 163, 0.51) 0%, rgba(15, 54, 9, 0.51) 100%);
+}
+
+.card-3 {
+    background: linear-gradient(180deg, rgba(163, 187, 215, 0.51) 0%, rgba(9, 38, 54, 0.51) 100%);
+}
+.links{
+    padding-left: 13%;
+    padding-top: 8%;
+}
+.card img{
+    padding-left: 20%;
+}
+
+.reviews{
+    position: absolute;
+    padding-top: 23%;
+    padding-left: 70%;
+}
+.reviews p{
+    width: 342px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: ABeeZee;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+}
+.reviews button:not(:last-child){
+    background-color: white;
+    border:none;
+    padding:5px;
+    margin-left: -4%;
+}
+.bt-4{
+    background-color: black;
+    padding: 10px;
+    border:white solid 4px;
+    margin-left: -4%;
+}
