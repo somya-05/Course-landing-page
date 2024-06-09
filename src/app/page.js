@@ -27,8 +27,7 @@ export default function Home() {
   </div>
   <div className="reviews">
     <p className="text-white">
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+“The course was insightful and practical, offering flexible learning, expert guidance, and valuable real-world applications."
     </p>
     <div className="review-photo">
       <button className="bt-1 rounded-circle">
@@ -51,8 +50,8 @@ export default function Home() {
       <div className="card-1 card rounded-pill">
         <div className="card-body">
           <p className="card-text text-center text-white">
-            Leading Customer
-            <br /> Delivery Platform
+            Interactive Content 
+            <br /> and Flexible Schedule
           </p>
           <img src="./images/purple.png" />
         </div>
@@ -73,8 +72,8 @@ export default function Home() {
       <div className="card-3 card rounded-pill">
         <div className="card-body">
           <p className="card-text text-center text-white">
-            Leading Customer
-            <br /> Delivery Platform
+            Certification and 
+            <br /> Community Support
           </p>
           <img src="./images/blue.png" />
         </div>
